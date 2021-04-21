@@ -11,4 +11,11 @@
   transition:  background .3s ease-in-out;
 }
 
+.AnswerItem.true{
+  background: rgba( 161, 240, 69, .7);
+}
+
+.AnswerItem.false{
+  background: rgba( 240, 87, 108, .7);
+}
 
